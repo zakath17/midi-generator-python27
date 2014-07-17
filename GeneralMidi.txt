@@ -1,0 +1,159 @@
+﻿Pianos
+	000 00 Grand piano acoustique
+	001 01 Piano acoustique
+	002 02 Grand piano électrique
+	003 03 Piano bastringue (Honky-Tonk Piano)
+	004 04 Piano électrique (Rhodes piano)
+	005 05 Piano - effet chorus
+	006 06 Clavecin (Harpsichord)
+	007 07 Clavinet
+
+Percussions chromatiques
+	008 08 Celesta
+	009 09 Glockenspiel
+	010 0A Boîte à musique (Music box)
+	011 0B Vibraphone
+	012 0C Marimba
+	013 0D Xylophone
+	014 0E Cloches tubulaires
+	015 0F Tympanon (Dulcimer)
+
+Orgues (Organ)
+	016 10 Orgue Hammond (Hammond Organ, traduit par Orgue de Barbarie par Quicktime)
+	017 11 Orgue à percussion
+	018 12 Orgue - Rock
+	019 13 Grandes orgues (Church organ)
+	020 14 Harmonium (Reed Organ)
+	021 15 Accordéon
+	022 16 Harmonica
+	023 17 Accordéon tango (Bandonéon)
+
+Guitares
+	024 18 Guitare classique (Acoustic guitar (nylon))
+	025 19 Guitare sèche
+	026 1A Guitare électrique - Jazz
+	027 1B Guitare électrique - son clair
+	028 1C Guitare électrique - sourdine
+	029 1D Guitare saturée (Overdriven guitar)
+	030 1E Guitare avec distorsion
+	031 1F Harmoniques de guitare
+
+Basses
+	032 20 Basse acoustique sans frettes
+	033 21 Basse électrique
+	034 22 Basse électrique - médiator
+	035 23 Basse sans frettes
+	036 24 Basse - slap 1
+	037 25 Basse - slap 2
+	038 26 Basse synthé 1
+	039 27 Basse synthé 2
+
+Cordes & orchestre
+	040 28 Violon
+	041 29 Violon alto (Viola)
+	042 2A Violoncelle (Cello)
+	043 2B Contrebasse
+	044 2C Cordes - trémolo
+	045 2D Cordes - pizzicato
+	046 2E Harpe
+	047 2F Timbales (Timpani)
+
+Ensembles
+	048 30 Ensemble acoustique à Cordes 1
+	049 31 Ensemble acoustique à Cordes 2
+	050 32 Cordes synthé 1
+	051 33 Cordes synthé 2
+	052 34 Chœur - "Aah" (Choir Aahs)
+	053 35 Chœur - "Ooh" (Voice Oohs)
+	054 36 Voix synthétique
+	055 37 Coup d'orchestre
+
+Cuivres (Brass)
+	056 38 trompette
+	057 39 Trombone
+	058 3A Tuba
+	059 3B trompette en sourdine
+	060 3C Cor d'harmonie (French horn)
+	061 3D Section de cuivres
+	062 3E Cuivres synthé
+	063 3F Cuivres synthé
+
+Instruments à anches
+	064 40 Saxophone soprano
+	065 41 Saxophone alto
+	066 42 Saxophone ténor
+	067 43 Saxophone baryton
+	068 44 Hautbois (Oboe)
+	069 45 Cor anglais
+	070 46 Basson (Bassoon)
+	071 47 Clarinette
+
+Autres instruments à vent
+	072 48 Piccolo
+	073 49 Flûte
+	074 4A Flûte à bec
+	075 4B Flûte de pan
+	076 4C Bouteille - souffle
+	077 4D Shakuhachi
+	078 4E Sifflet
+	079 4F Ocarina
+
+Synthé - Solo
+	080 50 Signal carré (Lead 1 (square))
+	081 51 Signal dents de scie (Lead 2 (sawtooth))
+	082 52 Orgue à vapeur (Lead 3 (calliope lead))
+	083 53 Chiffer (Lead 4 (chiff lead))
+	084 54 Charang (Lead 5 (charang))
+	085 55 Voix solo (Lead 6 (voice))
+	086 56 Signal dent de scie en quinte (Lead 7 (fifths))
+	087 57 Basse & Solo (Lead 8 (brass + lead))
+
+Synthé - Ensembles
+	088 58 Fantaisie (Pad 1 (new age))
+	089 59 Son chaleureux (Pad 2 (warm))
+	090 5A Polysynthé (Pad 3 (polysynth))
+	091 5B Chœur (Pad 4 (choir))
+	092 5C Archet (Pad 5 (bowed))
+	093 5D Métallique (Pad 6 (metallic))
+	094 5E Halo (Pad 7 (halo))
+	095 5F Balai (Pad 8 (sweep))
+
+Synthé - Effets
+	096 60 Pluie de glace
+	097 61 Trames sonores
+	098 62 Cristal
+	099 63 Atmosphère
+	100 64 Brillance
+	101 65 Gobelins (Goblins)
+	102 66 Échos
+	103 67 Espace (Sci-Fi)
+
+Instruments ethniques
+	104 68 Sitar
+	105 69 Banjo
+	106 6A Shamisen
+	107 6B Koto
+	108 6C Kalimba
+	109 6D Cornemuse
+	110 6E Viole
+	111 6F Shehnai
+
+Percussions
+	112 70 Clochettes
+	113 71 Agogo
+	114 72 Batterie métallique
+	115 73 Planchettes
+	116 74 Timbales
+	117 75 Tom mélodique
+	118 76 Tambour synthétique
+	119 77 Cymbale - inversée
+
+Effets sonores (bruitages)
+	120 78 Guitare - bruit de frette
+	121 79 Respiration
+	122 7A Rivage
+	123 7B Gazouilli
+	124 7C Sonnerie de téléphone
+	125 7D Hélicoptère
+	126 7E Applaudissements
+	127 7F Coup de feu
